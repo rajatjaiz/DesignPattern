@@ -1,0 +1,12 @@
+package com.nit.SingletonPractice;
+
+public class NormalSingleton {
+	private static  NormalSingleton instance;
+	
+	private NormalSingleton() {}
+	
+	public static NormalSingleton getInstance
+	
+	
+
+}

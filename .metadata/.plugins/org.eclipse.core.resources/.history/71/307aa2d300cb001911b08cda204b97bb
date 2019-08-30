@@ -1,0 +1,8 @@
+package com.nit.SingletonPractice;
+
+public class NormalSingleton {
+	private static final NormalSingleton INSTANCE;
+	
+	
+
+}

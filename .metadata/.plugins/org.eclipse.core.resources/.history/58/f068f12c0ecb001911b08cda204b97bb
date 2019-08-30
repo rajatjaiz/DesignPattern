@@ -1,0 +1,10 @@
+package com.nit.MultithreadedSingletonTest;
+
+public class Myrunnable implements Runnable {
+
+	@Override
+	public void run() {
+		
+	}
+
+}

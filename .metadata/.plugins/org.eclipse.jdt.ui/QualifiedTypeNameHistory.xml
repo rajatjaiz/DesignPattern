@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.nit.SingletonPractice.NormalSingleton"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="com.nit.MultithreadedSingleton.Printer"/>
+<fullyQualifiedTypeName name="com.nit.MultithreadedSingletonTest.Myrunnable"/>
+<fullyQualifiedTypeName name="com.nit.EagerInstantiationSingleton.Printer"/>
+<fullyQualifiedTypeName name="com.nit.NormalSingletonTest.MyRunnable"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>

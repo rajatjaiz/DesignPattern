@@ -1,0 +1,5 @@
+package com.nit.MultithreadedSingleton;
+
+public class Printer {
+
+}

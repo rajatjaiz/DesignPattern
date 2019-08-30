@@ -1,0 +1,12 @@
+package com.nit.MultithreadedSingletonTest;
+
+import com.nit.MultithreadedSingleton.Printer;
+
+public class Myrunnable implements Runnable {
+
+	@Override
+	public void run() {
+		Printer p1 = Printer.getInstance();
+	}
+
+}
